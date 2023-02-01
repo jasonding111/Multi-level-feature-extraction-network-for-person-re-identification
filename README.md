@@ -1,6 +1,6 @@
 # MFEN(Multistage Feature Extraction Network)
 A fully supervised person re-identification network <br>
-Paper https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs211456
+Paper: https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs211456
 #### Market1501
 | Model | Reference | mAP | Rank-1 |
 | --- | :---: | :---: | :---: |
